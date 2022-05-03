@@ -3,31 +3,9 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h3>
 
-<p align="center">
-  <a href="https://github.com/CodeWhiteWeb/CodeWhiteWeb"><img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&lines=Hi+%2C+welcome+to+my+Github+page;I+am+CodeWhiteWeb;I+am+a+High+school+student;Web+Dev;Game+Dev;Bot+Dev;Crypto+Lover+%3C3"></a>
-</p>
 
 <div align="center">
-  
-# 💫About Me :
-🔭 I’m currently working on: 
-  
-🌱 I’m currently learning : 
-
-  💬 Ask me about for any help
-
-  📫 How to reach me:  
-  Mail me at "rsamqui@gmail.com" 
-
-  <br>
-
-
-## 🌐Socials
-<p align="center">
-<a href="www.linkedin.com/in/rsamqui501"><img src="https://img.shields.io/badge/-rsamqui501-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
-<a href="https://instagram.com/elchinegrito"><img src="https://img.shields.io/badge/-@elchinegrito__-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
-<a href="https://facebook.com/rsamqui501"><img src="https://img.shields.io/badge/-@rsamqui501?style=flat&logo=Facebook&logoColor=white"/></a>
-</p>
+<br>
 
 # 💻Tech Stack <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> 
 
@@ -67,6 +45,14 @@
   ![Eclipse](https://img.shields.io/badge/-Eclipse-05122A?style=flat&logo=eclipse-ide&logoColor=2C2255)
   
 </p>
+
+## 🌐Socials
+<p align="center">
+<a href="www.linkedin.com/in/rsamqui501"><img src="https://img.shields.io/badge/-rsamqui501-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
+<a href="https://instagram.com/elchinegrito"><img src="https://img.shields.io/badge/-@elchinegrito__-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
+<a href="https://facebook.com/rsamqui501"><img src="https://img.shields.io/badge/-@rsamqui501?style=flat&logo=Facebook&logoColor=white"/></a>
+</p>
+
   
   <br/>
 </div>
