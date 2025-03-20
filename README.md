@@ -45,14 +45,6 @@
   ![Eclipse](https://img.shields.io/badge/-Eclipse-05122A?style=flat&logo=eclipse-ide&logoColor=2C2255)
   
 </p>
-
-## 🌐Socials
-<p align="center">
-<a href="www.linkedin.com/in/rsamqui501"><img src="https://img.shields.io/badge/-rsamqui501-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
-<a href="https://instagram.com/elchinegrito"><img src="https://img.shields.io/badge/-@elchinegrito__-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
-<a href="https://facebook.com/rsamqui501"><img src="https://img.shields.io/badge/-@rsamqui501-%2300f?style=flat&logo=Facebook&logoColor=white"/></a>
-</p>
-
   
   <br/>
 </div>
